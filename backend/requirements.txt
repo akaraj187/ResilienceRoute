@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+osmnx
+networkx
+geopandas
+shapely
+scikit-learn
+rasterio
+requests
